@@ -22,3 +22,5 @@ How to Use
 
 Screenshot
 
+https://github.com/ReddyKeerthana24/calculator/blob/12c96d9bf4126ff40a856e74492c6a9550c4d6a9/calculator/calc.png
+
